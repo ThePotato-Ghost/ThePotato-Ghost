@@ -1,10 +1,10 @@
-![MasterHead](https://i.pinimg.com/1200x/6f/f2/e6/6ff2e640080fb04fcb1c36da9c4ccd45.jpg)
+![MasterHead](https://i.pinimg.com/originals/c2/bf/a7/c2bfa794f162cb148a5c95bd7eae16b3.gif)
 <h1 align="center">Hi 👋, I'm The Potato Ghost</h1>
 <h3 align="center">A dedicated technology enthusiast with a strong passion for programming and a deep interest in the ever-changing world of digital innovation.</h3>
 
 - 🌱 I’m currently learning **JavaScript and C**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
