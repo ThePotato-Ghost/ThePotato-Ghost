@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/0c/b2/75/0cb275bf79e9e8578d1e81fec37b6cf0.gif)
+![MasterHead]([https://i.pinimg.com/](https://i.pinimg.com/1200x/6f/f2/e6/6ff2e640080fb04fcb1c36da9c4ccd45.jpg))
 <h1 align="center">Hi 👋, I'm The Potato Ghost</h1>
 <h3 align="center">A dedicated technology enthusiast with a strong passion for programming and a deep interest in the ever-changing world of digital innovation.</h3>
 
