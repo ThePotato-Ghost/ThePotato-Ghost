@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm The Potato Ghost</h1>
 <h3 align="center">A dedicated technology enthusiast with a strong passion for programming and a deep interest in the ever-changing world of digital innovation.</h3>
 
-- 🌱 I’m currently learning **JavaScript and C**
+- 🌱 I’m currently learning **Kernal Management and C++**
 
 
 <p align="left">
