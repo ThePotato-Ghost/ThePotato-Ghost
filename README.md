@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/c2/bf/a7/c2bfa794f162cb148a5c95bd7eae16b3.gif)
 <h1 align="center">Hi 👋, I'm The Potato Ghost</h1>
-<h3 align="center">A dedicated technology enthusiast with a strong passion for programming and a deep interest in the ever-changing world of digital innovation.</h3>
+<h3 align="center">A junkyard scientist with a strong passion for programming and a deep interest in the ever-changing world of digital innovation.</h3>
 
 - 🌱 I’m currently learning **Kernal Management and C++**
 
